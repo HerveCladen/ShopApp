@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
         height: 300,
         margin: 20,
-        overflow: 'hidden',
     },
     touchable: {
         borderRadius: 10,
