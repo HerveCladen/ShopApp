@@ -1,5 +1,5 @@
 # ShopApp
-React Native application that lets you add products to a cart
+React Native application that lets you add products to a cart__
 This was taken from Maximilian Schwarzmüller's course "React Native - The Practical Guide" on Udemy
 
 ## Project setup
